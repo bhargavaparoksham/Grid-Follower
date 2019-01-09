@@ -1,3 +1,5 @@
+//Author: Bhargav Aparoksham
+
 int centroid = 20 ;
 
 int sensors[5] = {0,1,2,3,4};
