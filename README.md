@@ -1,6 +1,6 @@
 # GridFollower
 
-A line following robot that goes to any given coordinate/coordinates.
+An advanced line following robot that goes to any given coordinate/coordinates in given grid
 
 Code is written in Arduino programming language.
 
